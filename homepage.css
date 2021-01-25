@@ -1,0 +1,35 @@
+body {
+    width: 100%; 
+}
+
+a {
+    margin: 5px;
+}
+.header_nav {
+    max-height: 200px;
+    padding: 5px 10px;
+    margin-bottom: 150px;
+}
+
+.header_nav .left_nav {
+    float: left;
+}
+
+
+.header_nav .right_nav {
+    float: right;
+}
+
+
+.footer_nav {
+    margin-top: 250px;
+    border-top: solid 1px grey;
+}
+.footer_nav .left_nav {
+    float: left;
+}
+
+
+.footer_nav .right_nav {
+    float: right;
+}
