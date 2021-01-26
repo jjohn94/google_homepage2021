@@ -9,27 +9,55 @@ a {
     max-height: 200px;
     padding: 5px 10px;
     margin-bottom: 150px;
+    margin-top: 20px;
 }
 
 .header_nav .left_nav {
     float: left;
+    margin-left: 20px; 
 }
 
 
 .header_nav .right_nav {
     float: right;
+    margin-right: 20px;
 }
 
 
 .footer_nav {
-    margin-top: 250px;
+    margin-top: 200px;
     border-top: solid 1px grey;
 }
+
 .footer_nav .left_nav {
     float: left;
+    margin: 10px;
 }
-
+  
 
 .footer_nav .right_nav {
     float: right;
+    margin: 10px;
+}
+
+.logo_header {
+    margin: 19% 40%;
+}
+
+.logo {
+    margin-bottom: 10px;
+}
+
+.searchbox {
+    margin-bottom: 15px;
+    max-width: 20%;
+}
+
+.search {
+    width: 250px;
+    min-height: 25px;
+}
+
+.buttons_below_search {
+    margin-right: 10px;
 }
